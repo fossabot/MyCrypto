@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/MyCryptoHQ/MyCrypto.svg?branch=master)](https://travis-ci.org/MyCryptoHQ/MyCrypto)
 [![Coverage Status](https://coveralls.io/repos/github/MyCryptoHQ/MyCrypto/badge.svg?branch=master)](https://coveralls.io/github/MyCryptoHQ/MyCrypto?branch=develop)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkerahui%2FMyCrypto.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkerahui%2FMyCrypto?ref=badge_shield)
 
 This repo stores both the beta and production versions of the MyCrypto codebase.
 #### The default `master` branch represents the beta code hosted on [beta.mycrypto.com](https://beta.mycrypto.com)
@@ -55,3 +56,7 @@ yarn dev:electron
 # builds production app version used on mycryptobuilds.com 
 yarn build:downloadable
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkerahui%2FMyCrypto.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkerahui%2FMyCrypto?ref=badge_large)
